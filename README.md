@@ -1,2 +1,1 @@
-# coursera-DS
-Exercises from the Data Science course ( Coursera)
+## This is a markdown file
